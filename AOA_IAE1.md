@@ -39,7 +39,9 @@ Binary search
 
 ### 4. Differentiate between P and NP.
 
-Ans. 
+Ans. ![image](https://user-images.githubusercontent.com/80765098/156197784-b01ded00-cafe-4e95-b610-b21ac1f5e0d0.png)
+
+
 
 ### 5. Explain different complexity classes.
 
